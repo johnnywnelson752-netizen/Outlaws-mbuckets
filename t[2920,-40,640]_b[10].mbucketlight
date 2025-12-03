@@ -1,0 +1,32 @@
+{
+	{
+		alphatest = true,
+		constants = {
+			0.11303711 0.25 0.0625 0.25,
+			0.11303711 0.25 0.0625 0.25,
+			0.19566607 0.11437169 0 1,
+		},
+		farDitherFade = true,
+		importance = 1,
+		impostorType = 0,
+		indoorOutdoor = 0,
+		lodPresetId = 13,
+		matrix = {
+			0.9097608 -0.359383 0.20779584 2934.3684,
+			0.24093 4.946273e-2 -0.9692813 -8.845215,
+			0.33806509 0.9318784 0.1315854 680.99097,
+			0 0 0 1,
+		},
+		model = "helix/graph objects/prop/_lastlod/pr_msv_1220_f_lastlod.mmb",
+		parentEntityUid = #E641ABF96627A6E40011706381812FB1,
+		shader = "snowdrop/shaders/PX LastLOD Prop.mshader",
+		textures = {
+			"baked/helix/maps/1EAB3B406396FD840000E19DA0AC6B3E/lastlod_props_diffuse.dds",
+			"baked/helix/maps/1EAB3B406396FD840000E19DA0AC6B3E/lastlod_props_material.dds",
+		},
+		type = "LastLod",
+		uid = #E641ABF96627A6E40011706481812FB2,
+		vistaInstance = 5,
+		vistaSectorUID = #9403335D97B6E54D7AF322809F08884B,
+	},
+}
